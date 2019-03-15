@@ -1,0 +1,7 @@
+scipy
+requests
+pymongo
+pytz
+asyncio
+asyncio-nats-client
+twilio
